@@ -163,34 +163,22 @@ nav ul li .register{
 	content: "";
 }
 
+.filter__controls .button-value{
+	border: 2px solid #ee257c;
+	padding: 0px 1.5em;
+	border-radius: 3em;
+	background-color: transparent;
+	color: #ee257c;
+	cursor: pointer;
+}
+.filter__controls .button-value:hover{
+	background-color: #ee257c;
+	color: #fff;
+}
+
 .product {
 	padding-top: 60px;
 	padding-bottom: 50px;
-}
-
-.filter__controls {
-	text-align: right;
-	margin-bottom: 50px;
-}
-
-.filter__controls li {
-	font-size: 20px;
-	list-style: none;
-	display: inline-block;
-	color: #111111;
-	margin-right: 35px;
-	position: relative;
-	cursor: pointer;
-}
-.filter__controls li:hover {
-	background-color: #ee257c;
-    padding: 5px 30px;
-    border-radius: 100px;
-    color: #fff;
-}
-
-.filter__controls li:last-child {
-	margin-right: 0;
 }
 
 .product__item {
@@ -244,7 +232,6 @@ nav ul li .register{
 .product__item__pic .label.sale {
 	background: #ca1515;
 }
-
 
 .product__hover {
 	position: absolute;
@@ -622,8 +609,8 @@ nav ul li .register{
 
 .footer__newslatter form button {
 	position: absolute;
-	right: 4px;
-	top: 4px;
+	right: 7.5px;
+	top: 7.5px;
 }
 
 .footer__social a {
@@ -677,9 +664,6 @@ nav ul li .register{
 
 /* Tablet Device = 768px */
 @media only screen and (min-width: 768px) and (max-width: 991px) {
-    .filter__controls li {
-		margin-right: 15px;
-	}
     .product__details__pic {
 		margin-bottom: 50px;
 	}
@@ -708,7 +692,6 @@ nav ul li .register{
         padding-top: 10px;
         padding-bottom: 10px;
     }
-    
 }
 
 /* Wide Mobile = 480px */
@@ -723,13 +706,6 @@ nav ul li .register{
     .banner .category-text-1 p{
         font-size: 15px;
     }
-    .filter__controls {
-		text-align: left;
-		margin-bottom: 40px;
-	}
-	.filter__controls li {
-		margin-right: 20px;
-	}
     .product__details__pic__left {
 		height: auto;
 	}
@@ -767,6 +743,9 @@ nav ul li .register{
         text-align: center;
         padding-left: 60px;
     }
+	.trend .trend__content{
+		margin-left: 20px;
+	}
 }
 
 /* Small Device = 320px */
@@ -778,10 +757,6 @@ nav ul li .register{
     .banner .category-text-1 h1{
         font-size: 30px;
     }
-    .filter__controls li {
-		margin-right: 5px;
-		margin-bottom: 5px;
-	}
     .product__details__button .cart-btn {
 		float: none;
 		margin-right: 0;
@@ -794,9 +769,7 @@ nav ul li .register{
     }
     .trend{
         text-align: center;
-    }
-    .trend .trend__item{
-        text-align: center;
+		margin-left: 5px;
     }
     .collection{
         padding-top: 25px;
