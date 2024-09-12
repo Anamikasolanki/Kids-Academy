@@ -104,3 +104,49 @@ for (let i = 0; i < priceInputvalue.length; i++) {
     });
   }
 }
+
+
+// product Page Section Start
+  var ProductImg = document.getElementById("ProductImg");
+  var SmallImg = document.getElementsByClassName("small-img");
+
+  SmallImg[0].onclick = function()
+  {
+    ProductImg.src = SmallImg[0].src; 
+  }
+  SmallImg[1].onclick = function()
+  {
+    ProductImg.src = SmallImg[1].src; 
+  }
+  SmallImg[2].onclick = function()
+  {
+    ProductImg.src = SmallImg[2].src; 
+  }
+  SmallImg[3].onclick = function()
+  {
+    ProductImg.src = SmallImg[3].src; 
+  }
+// product Page Section End
+
+// Quantity Section Start
+  const plus = document.querySelector(".plus"),
+  minus = document.querySelector(".minus"),
+  num = document.querySelector(".num");
+
+  let a = 1;
+
+  plus.addEventListener("click",()=>{
+    a++;
+    a = (a<10)? "0" + a : a;
+    num.innerText = a;
+    console.log(a);
+  });
+
+  minus.addEventListener("click",()=>{
+    if(a > 1){
+      a--;
+      a = (a<10)? "0" + a : a;
+      num.innerText = a;
+    }
+  });
+// Quantity Section End
