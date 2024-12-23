@@ -1,0 +1,9 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.aboutus{
+    background-image:linear-gradient(rgba(47, 99, 173, 0.7), rgba(47, 99, 173, 0.7)), url(../../../public/image/about-bg.jpg) !important;
+}

@@ -1,0 +1,30 @@
+[
+  {
+    "image" : "./image/banner_01.jpg",
+    "imageAlt" : "banner-01",
+    "h3Text" : "Welcome to KidsAcademy",
+    "h1Text" : "Best for Education",
+    "pText" : "Monotonely principle centered ahitectured through and standards magnetic metrics whereas cross functional products."
+  },
+  {
+    "image" : "./image/banner_02.jpg",
+    "imageAlt" : "banner-02",
+    "h3Text" : "Welcome to KidsAcademy",
+    "h1Text" : "Best for Education",
+    "pText" : "Monotonely principle centered ahitectured through and standards magnetic metrics whereas cross functional products."
+  },
+  {
+    "image" : "./image/banner_03.jpg",
+    "imageAlt" : "banner-03",
+    "h3Text" : "Welcome to KidsAcademy",
+    "h1Text" : "Best for Education",
+    "pText" : "Monotonely principle centered ahitectured through and standards magnetic metrics whereas cross functional products."
+  },
+  {
+    "image" : "./image/banner_04.jpg",
+    "imageAlt" : "banner-04",
+    "h3Text" : "Welcome to KidsAcademy",
+    "h1Text" : "Best for Education",
+    "pText" : "Monotonely principle centered ahitectured through and standards magnetic metrics whereas cross functional products."
+  }
+]

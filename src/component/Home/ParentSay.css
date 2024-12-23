@@ -1,0 +1,35 @@
+.border-orange{
+  border: 3px solid #FFC000;
+  border-radius: 60px 10px;
+}
+
+.border-darkorange{
+  border: 3px solid #E84B3A;
+  border-radius: 60px 10px;
+}
+
+.border-tomato{
+  border: 3px solid #FC7F0C;
+  border-radius: 60px 10px;
+}
+
+.borderorangeimg{
+  border-radius: 50px;
+  margin-top: 5px;
+  border: 3px solid #FFA07A;
+} 
+
+.borderdarkorangeimg{
+  border-radius: 50px;
+  margin-top: 5px;
+  border: 3px solid #E84B3A;
+}
+
+.borderdarktomatoimg{
+  border-radius: 50px;
+  margin-top: 5px;
+  border: 3px solid #FC7F0C;
+}
+
+
+

@@ -1,0 +1,38 @@
+
+[
+    {
+      "path":"/",
+      "name":"Home",
+      "color": "text-orange"
+    },
+    {
+      "path":"/about",
+      "name":"About",
+      "color": "text-darkorange"
+    },
+    {
+      "path":"/class",
+      "name":"Classes",
+      "color": "text-skyblue"
+    },
+    {
+      "path":"/teacher",
+      "name":"Teacher",
+      "color": "text-pink"
+    },
+    {
+      "path":"/page",
+      "name":"Page",
+      "color": "text-success"
+    },
+    {
+      "path":"/blog",
+      "name":"Blog",
+      "color": "text-dark"
+    },
+    {
+      "path":"/contact",
+      "name":"Contact",
+      "color": "text-purple"
+    }
+  ]

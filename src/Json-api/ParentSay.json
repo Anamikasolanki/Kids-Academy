@@ -1,0 +1,23 @@
+[
+  {
+    "name": "Joly Smith",
+    "role": "UX/UI Designer",
+    "img": "./image/testimonial_01.jpg",
+    "borderColor" : "border-orange",
+    "borderimg" : "borderorangeimg"
+  },
+  {
+    "name": "Joly Smith",
+    "role": "UX/UI Designer",
+    "img": "./image/testimonial_02.jpg",
+    "borderColor" : "border-darkorange",
+    "borderimg" : "borderdarkorangeimg"
+  },
+  {
+    "name": "Joly Smith",
+    "role": "UX/UI Designer",
+    "img": "./image/testimonial_03.jpg",
+    "borderColor" : "border-tomato",
+    "borderimg" : "borderdarktomatoimg"
+  }
+]

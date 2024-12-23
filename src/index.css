@@ -1,0 +1,77 @@
+@import url('https://fonts.googleapis.com/css2?family=Bubblegum+Sans&display=swap');
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Bubblegum Sans", sans-serif;
+}
+
+p{
+  font-size: 15px;
+  padding: 10px 0px 10px 0px;
+  color: grey;
+  text-align: justify;
+}
+
+.text-orange{
+  color: #FFC000;
+}
+
+.text-pink{
+  color: #EE257C;
+}
+
+.text-purple{
+  color: #92278F;
+}
+
+.text-darkorange{
+  color: #E84B3A;
+}
+
+.text-skyblue{
+  color: #14BDF4;
+}
+
+.bg-orange{
+  background-color: #FFC000;
+}
+
+.bg-pink{
+  background-color: #EE257C;
+}
+
+.bg-purple{
+  background-color: #92278F;
+}
+
+.bg-darkorange{
+  background-color: #E84B3A;
+}
+
+.bg-skyblue{
+  background-color: #14BDF4;
+}
+
+.bg-tometo{
+  background-color: #FC7F0C;
+}
+
+.fs-36{
+  font-size: 36px;
+}
+
+.fs-66{
+  font-size: 66px;
+}
+
+.btn{
+  padding: 10px 15px !important;
+  border-radius: 5px !important;
+}
+
+.btn:hover{
+  border-radius: 50px !important;
+  transform: scale(1.2);
+  transition: 0.5s;
+}
