@@ -1,0 +1,17 @@
+[
+    {
+        "image" : "./image/gallery_01.jpg",
+        "text" : "Corem psum dolor the amectetuer adipiscing...",
+        "date" : "24/2/2023"
+    },
+    {
+        "image" : "./image/gallery_02.jpg",
+        "text" : "Corem psum dolor the amectetuer adipiscing...",
+        "date" : "24/2/2023"
+    },
+    {
+        "image" : "./image/gallery_03.jpg",
+        "text" : "Corem psum dolor the amectetuer adipiscing...",
+        "date" : "24/2/2023"
+    }
+]

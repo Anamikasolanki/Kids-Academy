@@ -1,0 +1,14 @@
+.news{
+  background-image:linear-gradient(rgba(142, 13, 154, 0.7), rgba(142, 13, 154, 0.7)), url(../../../public/image/achievements-bg.jpg) !important;
+}
+
+.news::before {
+  content: "";
+  position: absolute;
+  background: url(../../../public/image/section_notch_top.png);
+  display: block;
+  top: 0;
+  width: 100%;
+  height: 7px;
+  z-index: 2;
+}

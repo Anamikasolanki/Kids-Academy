@@ -1,0 +1,18 @@
+[
+    {
+        "class" : "fa fa-home text-purple border p-2",
+        "text" : "New Chokoya Road, USA."
+    },
+    {
+        "class" : "fa fa-phone text-orange border p-2",
+        "text" : "+8801 923 970 212, 0125897"
+    },
+    {
+        "class" : "fa fa-envelope text-darkorange border p-2",
+        "text" : "Contact@admin LabArtisan"
+    },
+    {
+        "class" : "fa fa-globe text-skyblue border p-2",
+        "text" : "Email@admin LabArtisan"
+    }
+]

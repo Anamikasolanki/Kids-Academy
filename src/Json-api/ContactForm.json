@@ -1,0 +1,18 @@
+[
+  {
+    "heading" : "Our Location",
+    "headingColor" : "text-orange",
+    "headingDetails" : "218 Sahera Tropical Center Room#7 New Newyork Road 1205"
+
+  },
+  {
+    "heading" : "Phone Number",
+    "headingColor" : "text-darkorange",
+    "headingDetails" : "01923-970212, 01776-502993+2154897369"
+  },
+  {
+    "heading" : "Email Address",
+    "headingColor" : "text-pink",
+    "headingDetails" : "hello@labartisan"
+  }
+]

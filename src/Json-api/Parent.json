@@ -1,0 +1,20 @@
+[
+  {
+    "image": "./image/class_01.jpg",
+    "cardhead": "Imagination Classes",
+    "textcolor": "text-orange",
+    "addbgcolor": "bg-orange"
+  },
+  {
+    "image": "./image/class_02.jpg",
+    "cardhead": "Drawing Classes",
+    "textcolor": "text-darkorange",
+    "addbgcolor": "bg-darkorange"
+  },
+  {
+    "image": "./image/class_03.jpg",
+    "cardhead": "Learning Classes",
+    "textcolor": "text-pink",
+    "addbgcolor": "bg-pink"
+  }
+]
